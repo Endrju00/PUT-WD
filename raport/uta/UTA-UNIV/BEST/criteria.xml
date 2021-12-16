@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <criteria>
+    <criterion id="Cena" name="Cena">
+      <active>true</active>
+    </criterion>
+    <criterion id="Obrażenia" name="Obrażenia">
+      <active>true</active>
+    </criterion>
+    <criterion id="Pojemność magazynka" name="Pojemność magazynka">
+      <active>true</active>
+    </criterion>
+    <criterion id="Zasięg efektywny" name="Zasięg efektywny">
+      <active>true</active>
+    </criterion>
+    <criterion id="Penetracja pancerza" name="Penetracja pancerza">
+      <active>true</active>
+    </criterion>
+  </criteria>
+</xmcda:XMCDA>

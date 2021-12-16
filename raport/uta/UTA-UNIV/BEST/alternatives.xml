@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <alternatives>
+    <alternative id="PP-Bizon" name="PP-Bizon">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MAC-10" name="MAC-10">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MP7" name="MP7">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MP5-SD" name="MP5-SD">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MP9" name="MP9">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="P90" name="P90">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="UMP-45" name="UMP-45">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="AK-47" name="AK-47">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="AUG" name="AUG">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="FAMAS" name="FAMAS">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Galil AR" name="Galil AR">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="M4A4" name="M4A4">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="M4A1-S" name="M4A1-S">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="SG 553" name="SG 553">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="M249" name="M249">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Negev" name="Negev">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+  </alternatives>
+</xmcda:XMCDA>

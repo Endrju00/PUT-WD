@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <alternatives>
+    <alternative id="LBS" name="LBS">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MIT" name="MIT">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="YALE" name="YALE">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="UNC" name="UNC">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="UTOR" name="UTOR">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="UCLA" name="UCLA">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="OXFORD" name="OXFORD">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="MARYL" name="MARYL">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="CARNEGIE" name="CARNEGIE">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="CBS" name="CBS">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="CORNELL" name="CORNELL">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="DUKE" name="DUKE">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="ESADE" name="ESADE">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="HARVARD" name="HARVARD">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="IESE" name="IESE">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="INSEAD" name="INSEAD">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="NYU" name="NYU">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="NWU" name="NWU">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="ROTT" name="ROTT">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="STANFORD" name="STANFORD">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+  </alternatives>
+</xmcda:XMCDA>

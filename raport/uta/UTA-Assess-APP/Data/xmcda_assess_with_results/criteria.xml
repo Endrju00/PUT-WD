@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <criteria>
+    <criterion id="Cena [PLN]" name="Cena [PLN]">
+      <active>false</active>
+    </criterion>
+    <criterion id="Gramatura kimona [g/m]" name="Gramatura kimona [g/m]">
+      <active>true</active>
+    </criterion>
+    <criterion id="Waga spodni [oz]" name="Waga spodni [oz]">
+      <active>false</active>
+    </criterion>
+    <criterion id="Zawarto?? bawe?ny [%]" name="Zawarto?? bawe?ny [%]">
+      <active>false</active>
+    </criterion>
+    <criterion id="Ocena producenta" name="Ocena producenta">
+      <active>true</active>
+    </criterion>
+  </criteria>
+</xmcda:XMCDA>

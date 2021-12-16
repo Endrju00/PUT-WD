@@ -1,0 +1,169 @@
+<DATA>
+  <ATTRIBUTES>
+    <ATTRIBUTE AttrID="INFO">
+      <DESCRIPTION Value="Information about an alternative"/>
+      <TYPE Value="String"/>
+      <ROLE Value="Description"/>
+    </ATTRIBUTE>
+    <ATTRIBUTE AttrID="Liczba drzwi:">
+      <SEGMENTS Value="2"/>
+      <TYPE Value="Numeric"/>
+      <ROLE Value="Condition"/>
+      <CRITERION Value="Gain"/>
+    </ATTRIBUTE>
+    <ATTRIBUTE AttrID="Moc [KM]:">
+      <SEGMENTS Value="2"/>
+      <TYPE Value="Numeric"/>
+      <ROLE Value="Condition"/>
+      <CRITERION Value="Gain"/>
+    </ATTRIBUTE>
+    <ATTRIBUTE AttrID="Vmax [km/h]:">
+      <SEGMENTS Value="2"/>
+      <TYPE Value="Numeric"/>
+      <ROLE Value="Condition"/>
+      <CRITERION Value="Gain"/>
+    </ATTRIBUTE>
+    <ATTRIBUTE AttrID="0-100 km/h [s]:">
+      <SEGMENTS Value="2"/>
+      <TYPE Value="Numeric"/>
+      <ROLE Value="Condition"/>
+      <CRITERION Value="Cost"/>
+    </ATTRIBUTE>
+  </ATTRIBUTES>
+  <OBJECTS>
+    <OBJECT ObjID="Alfa Romeo MiTo">
+      <VALUE AttrID="Liczba drzwi:" Value="3"/>
+      <VALUE AttrID="Moc [KM]:" Value="70"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="160"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="14"/>
+    </OBJECT>
+    <OBJECT ObjID="Audi A5">
+      <RANK Value="4"/>
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="211"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="241"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="6.6"/>
+    </OBJECT>
+    <OBJECT ObjID="Audi Q5">
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="220"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="233"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="6.4"/>
+    </OBJECT>
+    <OBJECT ObjID="Bentley Continental">
+      <RANK Value="2"/>
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="575"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="318"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="4.6"/>
+    </OBJECT>
+    <OBJECT ObjID="BMW i3">
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="170"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="150"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="7.2"/>
+    </OBJECT>
+    <OBJECT ObjID="BMW i8">
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="231"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="250"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="4.4"/>
+    </OBJECT>
+    <OBJECT ObjID="BMW M3">
+      <RANK Value="3"/>
+      <VALUE AttrID="Liczba drzwi:" Value="4"/>
+      <VALUE AttrID="Moc [KM]:" Value="420"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="250"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="4.9"/>
+    </OBJECT>
+    <OBJECT ObjID="Daewoo Tico">
+      <RANK Value="6"/>
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="41"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="143"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="17"/>
+    </OBJECT>
+    <OBJECT ObjID="Ferrari 458">
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="569"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="325"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="3.4"/>
+    </OBJECT>
+    <OBJECT ObjID="Ferrari California">
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="460"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="310"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="4.1"/>
+    </OBJECT>
+    <OBJECT ObjID="Ferrari F12 Berlinetta">
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="680"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="340"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="3.1"/>
+    </OBJECT>
+    <OBJECT ObjID="Fiat Cinquecento">
+      <RANK Value="6"/>
+      <VALUE AttrID="Liczba drzwi:" Value="3"/>
+      <VALUE AttrID="Moc [KM]:" Value="31"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="126"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="30"/>
+    </OBJECT>
+    <OBJECT ObjID="Ford Focus">
+      <RANK Value="5"/>
+      <VALUE AttrID="Liczba drzwi:" Value="4"/>
+      <VALUE AttrID="Moc [KM]:" Value="163"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="217"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="9"/>
+    </OBJECT>
+    <OBJECT ObjID="Kia Ceed">
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="100"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="182"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="12.8"/>
+    </OBJECT>
+    <OBJECT ObjID="Lamborghini Aventador">
+      <RANK Value="1"/>
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="700"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="350"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="2.9"/>
+    </OBJECT>
+    <OBJECT ObjID="Land Rover Discovery">
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="190"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="188"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="10.4"/>
+    </OBJECT>
+    <OBJECT ObjID="Mini One">
+      <VALUE AttrID="Liczba drzwi:" Value="3"/>
+      <VALUE AttrID="Moc [KM]:" Value="95"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="185"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="10.9"/>
+    </OBJECT>
+    <OBJECT ObjID="Peugeot 207">
+      <VALUE AttrID="Liczba drzwi:" Value="5"/>
+      <VALUE AttrID="Moc [KM]:" Value="73"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="170"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="14.5"/>
+    </OBJECT>
+    <OBJECT ObjID="Porsche 911">
+      <VALUE AttrID="Liczba drzwi:" Value="2"/>
+      <VALUE AttrID="Moc [KM]:" Value="350"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="286"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="5"/>
+    </OBJECT>
+    <OBJECT ObjID="Rolls Royce Phantom">
+      <RANK Value="2"/>
+      <VALUE AttrID="Liczba drzwi:" Value="4"/>
+      <VALUE AttrID="Moc [KM]:" Value="460"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="240"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="6.1"/>
+    </OBJECT>
+    <OBJECT ObjID="Volkswagen Golf VII">
+      <VALUE AttrID="Liczba drzwi:" Value="3"/>
+      <VALUE AttrID="Moc [KM]:" Value="125"/>
+      <VALUE AttrID="Vmax [km/h]:" Value="204"/>
+      <VALUE AttrID="0-100 km/h [s]:" Value="9.1"/>
+    </OBJECT>
+  </OBJECTS>
+</DATA>

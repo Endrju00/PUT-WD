@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.1.1 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.1.1.xsd">
+  <alternatives>
+    <alternative id="Venum Contender 2.0" name="Venum Contender 2.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Nova Minimo 2.0" name="Tatami Nova Minimo 2.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Zero G V4 Superlight" name="Tatami Zero G V4 Superlight">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Hokori Minimal" name="Tatami Hokori Minimal">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Elements Ultralite" name="Tatami Elements Ultralite">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Estilo 6.0" name="Tatami Estilo 6.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Fuji Suparaito" name="Fuji Suparaito">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Fuji All Around" name="Fuji All Around">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Nova Mk4" name="Tatami Nova Mk4">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Japan Series Samurai" name="Tatami Japan Series Samurai">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="PitBull PB 2017 450" name="PitBull PB 2017 450">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="PitBull PB 2017 350" name="PitBull PB 2017 350">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Lightweight Traveller" name="Tatami Lightweight Traveller">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Ground Game Inceptor 3.0" name="Ground Game Inceptor 3.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KiNGZ Sovereign 2.0" name="KiNGZ Sovereign 2.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KiNGZ Classic 2.0" name="KiNGZ Classic 2.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Tatami Nova Plus" name="Tatami Nova Plus">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KiNGZ Balistico 2.0" name="KiNGZ Balistico 2.0">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KiNGZ Nano" name="KiNGZ Nano">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KiNGZ Ultralight" name="KiNGZ Ultralight">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Adidas Training" name="Adidas Training">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Dax FUJI" name="Dax FUJI">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="KuSakura IJF" name="KuSakura IJF">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Mizuno Shiai" name="Mizuno Shiai">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Adidas Champion II IJF APPROVED" name="Adidas Champion II IJF APPROVED">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Adidas Elite" name="Adidas Elite">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Green Hill Club" name="Green Hill Club">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Mifune 550" name="Mifune 550">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Adidas Contest II" name="Adidas Contest II">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+    <alternative id="Adidas Quest " name="Adidas Quest ">
+      <type>real</type>
+      <active>true</active>
+    </alternative>
+  </alternatives>
+</xmcda:XMCDA>
